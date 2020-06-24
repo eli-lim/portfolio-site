@@ -1,0 +1,30 @@
+// THEME
+$dracula-background: #282a36;
+$dracula-background-lighter: #44475a;
+$dracula-foreground: #f8f8f2;
+$dracula-comment: #6272a4;
+$dracula-cyan: #8be9fd;
+$dracula-green: #50fa7b;
+$dracula-orange: #ffb86c;
+$dracula-pink: #ff79c6;
+$dracula-purple: #bd93f9;
+$dracula-red: #ff5555;
+$dracula-yellow: rgb(241, 250, 140);
+
+// COLORS
+$primary-color: $dracula-cyan;
+$secondary-color: $dracula-pink;
+
+// $primary-color: #7f449d;
+// $secondary-color: #793fc1;
+
+$white-color: $dracula-foreground;
+
+$dark-grey: #333333;
+
+$dark-blue-text: #272341; // For Headings
+
+// FONT SIZE
+$default-font-size: 1.6rem;
+$big-font-size: 4rem;
+$mid-font-size: 2.5rem;
