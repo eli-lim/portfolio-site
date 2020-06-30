@@ -15,10 +15,10 @@ export const heroData = {
   subtitle: 'A full stack engineer wannabe',
   skills: {
     frontend: ['React', 'Vue', 'JS, HTML, CSS', 'Android (Native)'],
-    backend: ['Laravel', 'Spring(Boot)', 'Django', 'Express', 'Kafka'],
-    databases: ['MongoDB', 'PostgreSQL', 'MySQL', 'SQLite (haha)'],
+    backend: ['Laravel', 'Spring Boot', 'Django', 'Express', 'Kafka'],
+    databases: ['PostgreSQL', 'MySQL', 'MongoDB', 'Neo4j', 'SQLite (haha)'],
     languages: ['Java', 'Python', 'Javascript', 'PHP'],
-    'cloud & deployment': ['Heroku', 'Docker', 'Netlify'],
+    'cloud & deployment': ['AWS', 'Heroku', 'Docker', 'Netlify'],
   },
   cta: '',
 };
