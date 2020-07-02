@@ -3,9 +3,9 @@ import { v4 as uuidv4 } from 'uuid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Eli / HuanSen', // e.g: 'Name | Developer'
-  lang: 'en', // e.g: en, es, fr, jp
-  description: 'The life and times of a wannabe software engineer', // e.g: Welcome to my website
+  title: 'Eli / HuanSen',
+  lang: 'en',
+  description: 'The life and times of a wannabe software engineer',
 };
 
 // HERO DATA
